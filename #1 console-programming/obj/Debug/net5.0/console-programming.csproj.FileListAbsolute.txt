@@ -1,0 +1,32 @@
+C:\Users\Can\Desktop\Pratikler\console-programming\bin\Debug\net5.0\console-programming.exe
+C:\Users\Can\Desktop\Pratikler\console-programming\bin\Debug\net5.0\console-programming.deps.json
+C:\Users\Can\Desktop\Pratikler\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.json
+C:\Users\Can\Desktop\Pratikler\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.dev.json
+C:\Users\Can\Desktop\Pratikler\console-programming\bin\Debug\net5.0\console-programming.dll
+C:\Users\Can\Desktop\Pratikler\console-programming\bin\Debug\net5.0\ref\console-programming.dll
+C:\Users\Can\Desktop\Pratikler\console-programming\bin\Debug\net5.0\console-programming.pdb
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\console-programming.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfo.cs
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\console-programming.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\console-programming.dll
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\ref\console-programming.dll
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\console-programming.pdb
+C:\Users\Can\Desktop\Pratikler\console-programming\obj\Debug\net5.0\console-programming.genruntimeconfig.cache
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\bin\Debug\net5.0\console-programming.exe
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\bin\Debug\net5.0\console-programming.deps.json
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.json
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.dev.json
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\bin\Debug\net5.0\console-programming.dll
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\bin\Debug\net5.0\ref\console-programming.dll
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\bin\Debug\net5.0\console-programming.pdb
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\console-programming.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\console-programming.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\console-programming.AssemblyInfo.cs
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\console-programming.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\console-programming.dll
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\ref\console-programming.dll
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\console-programming.pdb
+C:\Users\Can\Desktop\Pratikler\#1 console-programming\obj\Debug\net5.0\console-programming.genruntimeconfig.cache
