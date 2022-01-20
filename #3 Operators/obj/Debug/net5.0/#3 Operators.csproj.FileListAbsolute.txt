@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\Pratikler\#3 Operators\bin\Debug\net5.0\#3 Operators.exe
+C:\Users\Can\Desktop\Pratikler\#3 Operators\bin\Debug\net5.0\#3 Operators.deps.json
+C:\Users\Can\Desktop\Pratikler\#3 Operators\bin\Debug\net5.0\#3 Operators.runtimeconfig.json
+C:\Users\Can\Desktop\Pratikler\#3 Operators\bin\Debug\net5.0\#3 Operators.runtimeconfig.dev.json
+C:\Users\Can\Desktop\Pratikler\#3 Operators\bin\Debug\net5.0\#3 Operators.dll
+C:\Users\Can\Desktop\Pratikler\#3 Operators\bin\Debug\net5.0\ref\#3 Operators.dll
+C:\Users\Can\Desktop\Pratikler\#3 Operators\bin\Debug\net5.0\#3 Operators.pdb
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\#3 Operators.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\#3 Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\#3 Operators.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\#3 Operators.AssemblyInfo.cs
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\#3 Operators.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\#3 Operators.dll
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\ref\#3 Operators.dll
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\#3 Operators.pdb
+C:\Users\Can\Desktop\Pratikler\#3 Operators\obj\Debug\net5.0\#3 Operators.genruntimeconfig.cache
