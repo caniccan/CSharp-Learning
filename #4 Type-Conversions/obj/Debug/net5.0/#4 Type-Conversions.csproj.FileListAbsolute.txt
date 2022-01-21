@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\bin\Debug\net5.0\#4 Type-Conversions.exe
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\bin\Debug\net5.0\#4 Type-Conversions.deps.json
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\bin\Debug\net5.0\#4 Type-Conversions.runtimeconfig.json
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\bin\Debug\net5.0\#4 Type-Conversions.runtimeconfig.dev.json
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\bin\Debug\net5.0\#4 Type-Conversions.dll
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\bin\Debug\net5.0\ref\#4 Type-Conversions.dll
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\bin\Debug\net5.0\#4 Type-Conversions.pdb
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\#4 Type-Conversions.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\#4 Type-Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\#4 Type-Conversions.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\#4 Type-Conversions.AssemblyInfo.cs
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\#4 Type-Conversions.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\#4 Type-Conversions.dll
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\ref\#4 Type-Conversions.dll
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\#4 Type-Conversions.pdb
+C:\Users\Can\Desktop\Pratikler\#4 Type-Conversions\obj\Debug\net5.0\#4 Type-Conversions.genruntimeconfig.cache
