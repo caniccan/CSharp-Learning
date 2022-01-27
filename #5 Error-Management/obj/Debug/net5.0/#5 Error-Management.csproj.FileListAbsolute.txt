@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\bin\Debug\net5.0\#5 Error-Management.exe
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\bin\Debug\net5.0\#5 Error-Management.deps.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\bin\Debug\net5.0\#5 Error-Management.runtimeconfig.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\bin\Debug\net5.0\#5 Error-Management.runtimeconfig.dev.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\bin\Debug\net5.0\#5 Error-Management.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\bin\Debug\net5.0\ref\#5 Error-Management.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\bin\Debug\net5.0\#5 Error-Management.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\#5 Error-Management.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\#5 Error-Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\#5 Error-Management.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\#5 Error-Management.AssemblyInfo.cs
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\#5 Error-Management.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\#5 Error-Management.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\ref\#5 Error-Management.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\#5 Error-Management.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#5 Error-Management\obj\Debug\net5.0\#5 Error-Management.genruntimeconfig.cache
