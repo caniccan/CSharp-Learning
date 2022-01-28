@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\bin\Debug\net5.0\#6 if-else.exe
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\bin\Debug\net5.0\#6 if-else.deps.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\bin\Debug\net5.0\#6 if-else.runtimeconfig.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\bin\Debug\net5.0\#6 if-else.runtimeconfig.dev.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\bin\Debug\net5.0\#6 if-else.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\bin\Debug\net5.0\ref\#6 if-else.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\bin\Debug\net5.0\#6 if-else.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\#6 if-else.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\#6 if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\#6 if-else.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\#6 if-else.AssemblyInfo.cs
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\#6 if-else.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\#6 if-else.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\ref\#6 if-else.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\#6 if-else.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#6 if-else\obj\Debug\net5.0\#6 if-else.genruntimeconfig.cache
