@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\bin\Debug\net5.0\#7 Switch-Case.exe
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\bin\Debug\net5.0\#7 Switch-Case.deps.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\bin\Debug\net5.0\#7 Switch-Case.runtimeconfig.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\bin\Debug\net5.0\#7 Switch-Case.runtimeconfig.dev.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\bin\Debug\net5.0\#7 Switch-Case.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\bin\Debug\net5.0\ref\#7 Switch-Case.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\bin\Debug\net5.0\#7 Switch-Case.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\#7 Switch-Case.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\#7 Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\#7 Switch-Case.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\#7 Switch-Case.AssemblyInfo.cs
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\#7 Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\#7 Switch-Case.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\ref\#7 Switch-Case.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\#7 Switch-Case.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#7 Switch-Case\obj\Debug\net5.0\#7 Switch-Case.genruntimeconfig.cache
