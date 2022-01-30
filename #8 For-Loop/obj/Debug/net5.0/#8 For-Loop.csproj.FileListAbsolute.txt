@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\#8 For-Loop.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\#8 For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\#8 For-Loop.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\#8 For-Loop.AssemblyInfo.cs
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\#8 For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\bin\Debug\net5.0\#8 For-Loop.exe
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\bin\Debug\net5.0\#8 For-Loop.deps.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\bin\Debug\net5.0\#8 For-Loop.runtimeconfig.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\bin\Debug\net5.0\#8 For-Loop.runtimeconfig.dev.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\bin\Debug\net5.0\#8 For-Loop.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\bin\Debug\net5.0\ref\#8 For-Loop.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\bin\Debug\net5.0\#8 For-Loop.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\#8 For-Loop.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\ref\#8 For-Loop.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\#8 For-Loop.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#8 For-Loop\obj\Debug\net5.0\#8 For-Loop.genruntimeconfig.cache
