@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\bin\Debug\net5.0\#9 While-Foreach.exe
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\bin\Debug\net5.0\#9 While-Foreach.deps.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\bin\Debug\net5.0\#9 While-Foreach.runtimeconfig.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\bin\Debug\net5.0\#9 While-Foreach.runtimeconfig.dev.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\bin\Debug\net5.0\#9 While-Foreach.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\bin\Debug\net5.0\ref\#9 While-Foreach.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\bin\Debug\net5.0\#9 While-Foreach.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\#9 While-Foreach.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\#9 While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\#9 While-Foreach.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\#9 While-Foreach.AssemblyInfo.cs
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\#9 While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\#9 While-Foreach.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\ref\#9 While-Foreach.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\#9 While-Foreach.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#9 While-Foreach\obj\Debug\net5.0\#9 While-Foreach.genruntimeconfig.cache
