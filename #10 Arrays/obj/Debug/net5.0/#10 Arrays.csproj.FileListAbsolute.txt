@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\bin\Debug\net5.0\#10 Arrays.exe
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\bin\Debug\net5.0\#10 Arrays.deps.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\bin\Debug\net5.0\#10 Arrays.runtimeconfig.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\bin\Debug\net5.0\#10 Arrays.runtimeconfig.dev.json
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\bin\Debug\net5.0\#10 Arrays.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\bin\Debug\net5.0\ref\#10 Arrays.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\bin\Debug\net5.0\#10 Arrays.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\#10 Arrays.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\#10 Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\#10 Arrays.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\#10 Arrays.AssemblyInfo.cs
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\#10 Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\#10 Arrays.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\ref\#10 Arrays.dll
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\#10 Arrays.pdb
+C:\Users\Can\Desktop\C# .Net Core\Pratikler\#10 Arrays\obj\Debug\net5.0\#10 Arrays.genruntimeconfig.cache
